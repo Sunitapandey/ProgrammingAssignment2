@@ -1,6 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
+## The first function creates a special matrix
+## The second function calculates the inverse of the matrix created from first function
 
 
 ## This function creates the special matrix 
